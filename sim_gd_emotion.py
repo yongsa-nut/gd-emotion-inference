@@ -1,7 +1,8 @@
 '''
-Created on Apr 23, 2017
-
-@author: nutjung
+@author: Nutchanon Yongsatianchot
+@Description: Simulation for SAS Preconf Poster
+@Description: Given situation + expression -> Goal, Display, Emotion
+@Description: Bayesian Network as generative model of emotion
 '''
 import math
 import random
